@@ -1,2 +1,2 @@
 # PC-senior-project
-My name is Otis and I'm a student at Prescott College. For my senior project, I wanted to focus on accessible online assessment, both the student experience and the educator experience.
+This is the repository for my senior project. To run the code, download all files and run gui.py. tests made and score output will be put into folder.
