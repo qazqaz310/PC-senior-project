@@ -1,0 +1,38 @@
+{
+    "Title": "test",
+    "author": "Otis",
+    "questions": [
+        {
+            "multipleChoice": true,
+            "question": "true or false: this project is well done!",
+            "possibleAnswers": {
+                "a": "true",
+                "b": "false"
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "multipleChoice": false,
+            "question": "what is 2 + 2?",
+            "possibleAnswers": {},
+            "correctAnswer": "4"
+        },
+        {
+            "multipleChoice": true,
+            "question": "what is the capital of france?",
+            "possibleAnswers": {
+                "a": "Paris",
+                "b": "something else",
+                "c": "something else else",
+                "d": "not Paris"
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "multipleChoice": false,
+            "question": "what is my name?",
+            "possibleAnswers": {},
+            "correctAnswer": "Otis"
+        }
+    ]
+}

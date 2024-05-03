@@ -1,0 +1,43 @@
+{
+    "Title": "test",
+    "author": "Otis",
+    "questions": [
+        {
+            "multipleChoice": true,
+            "question": "Which is the capitol of France?",
+            "possibleAnswers": {
+                "a": "Brussels",
+                "b": "Paris",
+                "c": "Seattle",
+                "d": "Taiwan"
+            },
+            "correctAnswer": "b"
+        },
+        {
+            "multipleChoice": true,
+            "question": "true or false: I am a good coder",
+            "possibleAnswers": {
+                "a": "True",
+                "b": "False"
+            },
+            "correctAnswer": "a"
+        },
+        {
+            "multipleChoice": false,
+            "question": "what is 2 + 2?",
+            "possibleAnswers": {},
+            "correctAnswer": "4"
+        },
+        {
+            "multipleChoice": true,
+            "question": "Clifford the big red",
+            "possibleAnswers": {
+                "a": "cat",
+                "b": "dog",
+                "c": "parrot",
+                "d": "pig"
+            },
+            "correctAnswer": "b"
+        }
+    ]
+}

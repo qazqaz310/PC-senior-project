@@ -1,0 +1,28 @@
+{
+    "Title": "test",
+    "author": "Otis",
+    "questions": [
+        {
+            "multipleChoice": true,
+            "question": "two there",
+            "possibleAnswers": {
+                "a": "1",
+                "b": "2",
+                "c": "3",
+                "d": "4",
+                "e": "5"
+            },
+            "correctAnswer": "b"
+        },
+        {
+            "multipleChoice": true,
+            "question": "who goes tharr",
+            "possibleAnswers": {
+                "a": "1",
+                "b": "2",
+                "c": "3"
+            },
+            "correctAnswer": "b"
+        }
+    ]
+}
